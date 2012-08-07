@@ -1,0 +1,89 @@
+* using log directory ‘/Users/rxvalente/Dropbox/litc_package/litc.Rcheck’
+* using R version 2.15.1 (2012-06-22)
+* using platform: x86_64-apple-darwin9.8.0 (64-bit)
+* using session charset: UTF-8
+* checking for file ‘litc/DESCRIPTION’ ... OK
+* this is package ‘litc’ version ‘1.0-7’
+* checking package dependencies ... OK
+* checking if this is a source package ... OK
+* checking if there is a namespace ... NOTE
+As from R 2.14.0 all packages need a namespace.
+One will be generated on installation, but it is better to handcraft a
+NAMESPACE file: R CMD build will produce a suitable starting point.
+CRAN requires a NAMESPACE file for all submissions.
+* checking for executable files ... OK
+* checking whether package ‘litc’ can be installed ... WARNING
+Found the following significant warnings:
+  Warning: /Users/rxvalente/Dropbox/litc_package/litc/man/litc_package-package.Rd:28: All text must be in a section
+  Warning: /Users/rxvalente/Dropbox/litc_package/litc/man/litc_package-package.Rd:29: All text must be in a section
+See ‘/Users/rxvalente/Dropbox/litc_package/litc.Rcheck/00install.out’ for details.
+* checking installed package size ... OK
+* checking package directory ... OK
+* checking for portable file names ... OK
+* checking for sufficient/correct file permissions ... OK
+* checking DESCRIPTION meta-information ... NOTE
+Non-standard license specification:
+  GPL version 2 or newer
+Standardizable: TRUE
+Standardized license specification:
+  GPL (>= 2)
+* checking top-level files ... OK
+* checking index information ... OK
+* checking package subdirectories ... OK
+* checking R files for non-ASCII characters ... OK
+* checking R files for syntax errors ... OK
+* checking whether the package can be loaded ... OK
+* checking whether the package can be loaded with stated dependencies ... OK
+* checking whether the package can be unloaded cleanly ... OK
+* checking for unstated dependencies in R code ... OK
+* checking S3 generic/method consistency ... OK
+* checking replacement functions ... OK
+* checking foreign function calls ... OK
+* checking R code for possible problems ... OK
+* checking Rd files ... WARNING
+prepare_Rd: calculate_Uk.Rd:25-27: Dropping empty section \details
+prepare_Rd: calculate_Uk.Rd:28-34: Dropping empty section \value
+prepare_Rd: calculate_Uk.Rd:41-43: Dropping empty section \note
+prepare_Rd: calculate_Uk.Rd:38-40: Dropping empty section \author
+prepare_Rd: calculate_Uk.Rd:35-37: Dropping empty section \references
+prepare_Rd: calculate_Uk.Rd:47-49: Dropping empty section \seealso
+prepare_Rd: calculate_centers.Rd:7-9: Dropping empty section \description
+prepare_Rd: calculate_centers.Rd:25-27: Dropping empty section \details
+prepare_Rd: calculate_centers.Rd:28-34: Dropping empty section \value
+prepare_Rd: calculate_centers.Rd:41-43: Dropping empty section \note
+prepare_Rd: calculate_centers.Rd:38-40: Dropping empty section \author
+prepare_Rd: calculate_centers.Rd:35-37: Dropping empty section \references
+prepare_Rd: calculate_centers.Rd:47-49: Dropping empty section \seealso
+checkRd: (5) calculate_centers.Rd:0-73: Must have a \description
+prepare_Rd: calculate_membership.Rd:25-27: Dropping empty section \details
+prepare_Rd: calculate_membership.Rd:28-34: Dropping empty section \value
+prepare_Rd: calculate_membership.Rd:41-43: Dropping empty section \note
+prepare_Rd: calculate_membership.Rd:38-40: Dropping empty section \author
+prepare_Rd: calculate_membership.Rd:35-37: Dropping empty section \references
+prepare_Rd: calculate_membership.Rd:47-49: Dropping empty section \seealso
+prepare_Rd: fcm.Rd:7-9: Dropping empty section \description
+prepare_Rd: fcm.Rd:34-36: Dropping empty section \details
+prepare_Rd: fcm.Rd:37-43: Dropping empty section \value
+prepare_Rd: fcm.Rd:50-52: Dropping empty section \note
+prepare_Rd: fcm.Rd:47-49: Dropping empty section \author
+prepare_Rd: fcm.Rd:44-46: Dropping empty section \references
+prepare_Rd: fcm.Rd:56-58: Dropping empty section \seealso
+checkRd: (5) fcm.Rd:0-116: Must have a \description
+prepare_Rd: litc_package-package.Rd:28: All text must be in a section
+prepare_Rd: litc_package-package.Rd:29: All text must be in a section
+prepare_Rd: litc_package-package.Rd:35-36: Dropping empty section \examples
+* checking Rd metadata ... OK
+* checking Rd cross-references ... WARNING
+Unknown package(s) ‘<pkg>’ in Rd xrefs
+* checking for missing documentation entries ... OK
+* checking for code/documentation mismatches ... OK
+* checking Rd \usage sections ... OK
+* checking Rd contents ... OK
+* checking for unstated dependencies in examples ... OK
+* checking examples ... OK
+* checking PDF version of manual ... OK
+WARNING: There were 3 warnings.
+NOTE: There were 2 notes.
+See
+  ‘/Users/rxvalente/Dropbox/litc_package/litc.Rcheck/00check.log’
+for details.

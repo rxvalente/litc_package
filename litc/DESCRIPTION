@@ -1,0 +1,14 @@
+Package: litc
+Title: Procedures for Personality and Psychological Research
+Version: 1.0-7
+Date: 2006-06-15
+Author: William Revelle 
+Maintainer: William Revelle <rxvalente@gmail.com>
+Depends: R (>= 2.10)
+Description: A number of routines for personality and experimental
+        psychology, (This is my second draft of a package, so be
+        patient,) Functions are primarily for scale construction and
+        reliability analysis, although others are basic descriptive
+        stats, For more information, see the personality-project.org/r
+License: GPL version 2 or newer
+URL: http://personality-project.org/r/

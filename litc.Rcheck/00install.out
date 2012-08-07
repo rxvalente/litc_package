@@ -1,0 +1,14 @@
+* installing *source* package ‘litc’ ...
+** Creating default NAMESPACE file
+** R
+** preparing package for lazy loading
+** help
+Warning: /Users/rxvalente/Dropbox/litc_package/litc/man/litc_package-package.Rd:28: All text must be in a section
+Warning: /Users/rxvalente/Dropbox/litc_package/litc/man/litc_package-package.Rd:29: All text must be in a section
+*** installing help indices
+** building package indices
+** testing if installed package can be loaded
+*** arch - i386
+*** arch - x86_64
+
+* DONE (litc)

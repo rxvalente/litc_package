@@ -1,0 +1,6 @@
+calculate_Uk            Function that calculates blabla
+calculate_centers       Calcula os centros
+calculate_membership    Calculate the Membership of the Patterns for a
+                        cluster.
+fcm                     FCM Funcion
+litc_package-package    LITC package
